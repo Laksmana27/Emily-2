@@ -1,0 +1,30 @@
+{
+    "ownerNumber": ["62895372305081@s.whatsapp.net","62887435047326@s.whatsapp.net"],
+    "ownerName": "RLP27",
+    "instagram" : "https://instagram.com/Laksmana.27",
+    "gcwa" : "https://instabio.cc/Alphabot",
+    "botName": "EMILY",
+    "footer": "api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Pvn46Hbh75NEgZw",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "antiDelete": true,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": false,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
